@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Images/view-grid.png</file>
+        <file>Images/view-list.png</file>
+        <file>Images/alpha.png</file>
+        <file>Images/folder.png</file>
+    </qresource>
+</RCC>
